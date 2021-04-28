@@ -1,0 +1,5 @@
+Directions for how to execute the calcPrice.c file
+
+1. Change your directory to where the file is located using the cd command
+2. Type out " cc -o calcPrice calcPrice.c " and hit enter to make the file executable
+3. Type out " ./calcPrice " and hit enter to execute the file
