@@ -1,0 +1,5 @@
+Directions to execute the simple.sh script:
+
+1. Change your directory to wherever the script is located using the "cd" command
+2. Type out " chmod a+x simple.sh " and hit enter to add executable permissions
+3. Type " ./simple.sh " and hit enter to run the script
