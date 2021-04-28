@@ -1,4 +1,5 @@
 Directions for how to execute the hello.sh file
 
-1. Change the directory to where the file is located using the cd command
-2. 
+1. Change your directory to where the file is located using the cd command
+2. Type out " chmod a+x hello.sh " and hit enter to make the file executable
+3. Type out " ./hello.sh " and hit enter to execute the file
