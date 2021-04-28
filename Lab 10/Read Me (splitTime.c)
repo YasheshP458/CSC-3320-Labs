@@ -1,0 +1,5 @@
+Directions for how to execute the splitTime.c file
+
+1. Change your directory to where the file is located using the cd command
+2. Type out " cc -o splitTime splitTime.c " and hit enter to make the file executable
+3. Type out " ./splitTime " and hit enter to execute the file
